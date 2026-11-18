@@ -1,7 +1,11 @@
 #include<stdio.h>
 
-int main()
+int main(void)
 {
-	while(1)
-		return 0;
+	printf("output1\n");
+	printf("output2\n");
+	printf("output3\n");
+
+	printf("output4\n");
+		return 13;
 }
